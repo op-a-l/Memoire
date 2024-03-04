@@ -13,24 +13,30 @@ tags:
 >[!Info]
 >Document sur le modèle du texte de Jean Desmazes
 
+Il subit donc des modifications fréquentes.
+
+## Sujet de recherche
+ ![[Sujet de recherche - Mathis Péron 22003481#Résumé]]
+
 ## Rupture
 
 ### Question de départ
 
-**Question de départ : **
+**Problématique de départ : **
 
-La musique glitch change la manière dont on produit et consomme la musique. Chacun développe ses méthodes de production pour s'éloigner du mainstream. Cela semble répondre à l'individualisation de la consommation de musique due à l'avènement des algorithmes des plateformes de streaming et des réseaux sociaux.
+La musique électronique expérimentale change la manière dont on produit et consomme la musique. Chacun développe ses méthodes de production. Cette forme d'individualisation de la création semble répondre à l'individualisation de la consommation de musique due à l'avènement des algorithmes des plateformes de streaming et des réseaux sociaux. Ce qui fait l'originalité d'une pièce, en musique électronique expérimentale, réside souvent dans la complexité du design sonore.  
 
-1. Définir la musique glitch. En quoi elle est individualiste. 
+1. Définir la musique électronique expérimentale. 
 2. Définir le mainstream et en quoi la glitch est opposée à ce concept. 
 3. Expliquer la façon dont on consomme la musique, pourquoi ça change. 
 4. Comment la musique s'adapte pour répondre à la demande actuelle. 
 
-En quoi la musique glitch/idm participe activement du changement de modèle standard de "production/consommation" de musique par son esthétique et sa technique ? 
+En quoi la musique idm/expérimentale participe activement du changement de modèle standard de "production/consommation" de musique par son esthétique, sa technique et sa philosophie ? 
 
 ---
 
 ### Exploration
+---
 
 - La modification de la production/consommation de musique par l'esthétique glitch.
 	- La musique glitch soulève des enjeux esthétique, elle s'intéresse à l'imperfection dans la précision algorithmique. 

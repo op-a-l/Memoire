@@ -14,5 +14,3 @@ tags:
 | 3.  | [[_the center of it all\|Essais de composition]]         |       |       | X     | X     | X     |       |      |
 | a.  | [[nodes everywhere\|Composition]]                        |       |       |       |       |       |       |      |
 | 4.  | [[Prototypage]]                                          |       |       |       |       | X     | X     | X    |
-
-

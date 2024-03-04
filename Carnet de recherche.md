@@ -1,12 +1,44 @@
-
+---
+tags:
+  - mémoire
+---
+---
 
 [Planning](obsidian://open?vault=Tout&file=M%C3%A9moire%2FRetro-planning.canvas)
 
+---
+## *Roadmap mémoire*
+- [ ] Mémoire
+	- [ ] Création
+		- [ ] Sound design
+			- [ ] Kicks 
+			- [ ] Snares(@2024-03-04 19:00)
+		- [ ] Composition
+			- [ ] _the center of it all 
+				- [ ] _nodes everywhere (@2024-04-08)
+				- [ ] _folds in a folder
+				- [ ] _sans nom
+	- [ ] Recherche
+		- [ ] Rupture
+			- [ ] Question de départ
+			- [ ] Explorations
+				- [ ] Lectures
+				- [ ] Entretiens
+		- [ ] Construction
+			- [ ] Problématique
+			- [ ] Construction d'analyse
+		- [ ] Constatation
+			- [ ] Observations
+			- [ ] Analyse des informations
+			- [ ] Conclusions
+---
+## Ressources
+### Pour la création
 
-### Intentions
+#### Intentions
 [[_Intentions artistiques, esthétiques, techniques.canvas|Intentions artistiques, esthétiques, techniques]]
 
-### Pour la création
+#### Ressources
 
 - [[Suivi de création]] pour suivre l'avancement des compositions.
 - [[_Références esthétiques, méthodologie]]. Un document de ressources dans lequel je fais des analyses, plus ou moins profondes, de musiques, d'albums ou de techniques musicales.
@@ -27,3 +59,26 @@
 	- [[Communautés virtuelles]] pourrait poser les bases de ma réflexion. Il parle des regroupements en des "lieux" virtuels et surement de la façon dont cela affecte l'art. 
 
 - [Statistiques soundcloud](https://marketsplash.com/fr/statistiques-de-soundcloud/) sur la consommation de musique pendant l'année 2023
+
+
+## Suivi de la recherche
+
+### 23 - 02 - 24 
+**Commit 27ff6bd0b5d1163144dd4520469affbafcb2df95**
+
+[[2024-02-23]] : Ai travaillé sur ma [[Question de recherche]] pendant le cours de Thierry Lefort. 
+
+Ma question initiale est "En quoi la musique glitch/idm participe activement du changement de modèle standard de 'production/consommation' de musique par son esthétique, sa technique et sa philosophie ?" 
+
+Cette formulation est certainement vouée à changer puisque je vais la nourrir de réflexions en suivant les principes exposés par Thierry Lefort sur Cursus, repris de [[EMS_BEAUL_2017_01_0107.pdf|l'article de Desmazes]].
+
+###### Schéma
+![[RECH_M1_CN_S08_C04.pdf#page=4]]
+
+
+
+
+
+### 26 - 02 - 24
+
+[[2024-02-26]]: Ai avancé sur le sound design du projet de création. 

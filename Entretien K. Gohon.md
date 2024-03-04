@@ -7,9 +7,7 @@ Timothé glitch visuel.
 
 ## Analyse d'un genre 
 
-Voir la musique glitch de manière générale 
-
-Immatérielle 
+Voir la musique électronique expérimentale et idm de manière générale 
 
 ## La musique glitch/idm
 

@@ -5,15 +5,36 @@ tags:
 aliases:
   - Présentation de recherche
 ---
+
+### Choix du sujet
+
+**Type de recherche :** Articulée par ma pratique artistique. Elle soulève les enjeux de cette dernière. 
+	Enjeux de ma pratique artistique : [[_Intentions artistiques, esthétiques, techniques.canvas|Ma pratique]] est centrée sur le sound design et soulève donc des enjeux techniques et esthétiques forts. Ma musique est un assemblage d'esthétique et de paysages sonores numériques variés, essayant de s'inscrire dans les mouvances modernes de la musique électronique expérimentale. Elle tire son inspiration de la nature pour se structurer, s'arranger et s'orchestrer en essayant de faire oublier l'ordinateur qui se cache derrière chaque son.
+
+**Domaine de recherche :** Ma recherche est principalement musicologique. Elle tente de cerner ce qui fait la musique électronique "organique", dans les sonorités d'abord puis dans les structures, du son cru à l'écoute. 
+
+**Sujet global :** Ma recherche portera sur le sound design dans la musique électronique. 
+
+**Sous sujets :**
+- Chaos et organicité dans les musiques électroniques expérimentales. 
+	- Inspiration de la nature
+- Paysages sonores électroniques
+	- Inspiration de la nature
+		- Structures fractales
+		- Utilisation de samples de field recording
+			- Extraction de grooves ableton.
+			- Recomposition à partir des transients du sample.
+		- Mise en son de concepts, objets, animaux, émotions
+		- Inspired by nature
+	- Complexifications des algorithmes de traitement audio
+		- Réverbération à convolution
+		- Inspired by nature
+		- Fractal filters
+- Individualisation de la pratique musicale et changement du paradigme de consommation. Focus sur l'artiste identifiable par un son unique. 
+
 #### Résumé
 
-Dans un premier temps j'ai pensé centrer mon travail sur le conditionnement d'un rendu sonore de par l'usage spécifique de synthétiseurs numériques de la marque suédoise Elektron. La disposition physique de ces machines conditionne la manière dont l'opérateur sculpte sa musique et le fait entrer dans un cercle d'initiés dont les membres partagent ses acceptions sur la musique.
-
-Puis j'ai songé à orienter mon travail sur Serum de Steve Duda, un synthétiseur virtuel dont la disposition technique pousse l'utilisateur vers un certain son. Ce *plug-in* est extrêmement répandu dans le milieu de la musique électronique. Il est le fondement de nombre de genres musicaux et de communautés de créateurs.
-
-Parallèlement, j'ai pensé travailler sur l'organisation géographique du territoire, sur la manière dont elle impacte la création en faisant se rencontrer ou non des artistes, en leur faisant entendre tel ou tel paysage sonore. Ce potentiel travail de recherche se serait inscrit dans la lignée de l'*[[urban musicology]]*, donc assez loin d'une recherche portée sur le numérique.
-
-Après réflexion, j'ai pensé que mon travail pourrait être celui d'une *urban musicology* revisitée, celle d'internet. Les villes que la discipline étudie seraient remplacées par les "lieux" que sont les serveurs discord, les *subs* reddit et les forums spécialisés comme celui des Elektronautes dédié aux adeptes Elektron. Ces noeuds de rencontre sont des espaces de réflexion dans lesquels des communautés se créent, partagent un nombre d'outils et de ressources diverses. Ils portent une esthétique et la diffusent à plus ou moins large échelle sous forme visuelle, sonore ou écrite, sous forme d'art intrinsèquement numérique. Mon travail s'intéressera donc à l'organisation des communautés créatrices d'internet, à l'impact des nouveaux lieux de création sur l'esthétique de l'art et sa dynamique. 
+Ayant un certain attrait pour la musique électronique expérimentale, et pratiquant moi même la chose, il me paraît assez évident de changer légèrement la direction du travail que je suivais jusqu'à présent. Je compte me tourner vers ce que je pratique puisque c'est en cela que réside le sens de mon mémoire. Ce dernier sera centré sur le sound design et la composition dans la musique électronique. L'écrit parlera de l'utilisation de techniques de composition aléatoires et le traitement sonore lourd appliqué aux signaux, faisant presque oublier que la musique est composée depuis un ordinateur de par sa sonorité "organique". L'organicité, telle que je l'entend, est la sensation que la musique est jouée par un humain, qu'elle est emplie de petits défauts qui la rendent cohérente tant les sons qu'elle laisse entendre sont variés par l'usage de procédés aléatoires. C'est, en fait, la proximité que la musique entretient avec la nature, son recours aux fractales dans certains algorithmes ou dans la structure des morceaux, l'usage de résonateurs, de réverbérations à convolution ou le travail d'enregistrements tirés de la nature. Plus globalement, mon écrit s'intéressera à la complexification de la musique électronique par l'emploi de techniques de sound design rendant les textures sonores organiques. 
 
 #### Liste de lecture
 
