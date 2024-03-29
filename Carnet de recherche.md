@@ -12,13 +12,15 @@ tags:
 	- [ ] Création
 		- [ ] Sound design
 			- [ ] Kicks 
-			- [ ] Snares(@2024-03-11)
+			- [x] Snares(@2024-03-11)
 		- [ ] Composition
 			- [ ] _the center of it all 
 				- [ ] _nodes everywhere (@2024-04-08)
 				- [ ] _folds in a folder
 				- [ ] _sans nom
 	- [ ] Recherche
+		- [ ] Lectures
+			- [ ] [[Musique numérique, pour quoi faire]]
 		- [ ] Définir un sujet valide
 			- [x] Formulation du sujet
 		- [ ] Rupture
@@ -45,13 +47,6 @@ Ma question initiale est "En quoi la musique glitch/idm participe activement du 
 
 Cette formulation est certainement vouée à changer puisque je vais la nourrir de réflexions en suivant les principes exposés par Thierry Lefort sur Cursus, repris de [[EMS_BEAUL_2017_01_0107.pdf|l'article de Desmazes]].
 
-###### Schéma
-![[RECH_M1_CN_S08_C04.pdf#page=4]]
-
-
-
-
-
 ### 26 - 02 - 24
 
 [[2024-02-26]]: Ai avancé sur le sound design du projet de création. 
@@ -59,3 +54,8 @@ Cette formulation est certainement vouée à changer puisque je vais la nourrir 
 ### 06 - 03 - 24
 
 [[2024-03-06]]: Ai soumis mon sujet à K. Gohon. [[Entretiens K. Gohon#Nouveau sujet - email]]
+
+### 12 - 03 - 24
+
+[[2024-03-12]]: Formulation de ma [[Question de recherche|question de recherche]]
+

@@ -22,7 +22,7 @@
 		{"id":"7efe2db969d736e8","type":"text","text":"Composition","x":-1380,"y":80,"width":250,"height":60},
 		{"id":"948e5360d9c274bc","type":"text","text":"Design graphique","x":-1380,"y":160,"width":250,"height":60},
 		{"id":"e25d463c9d1a42b9","type":"text","text":"[[Prototypage]]","x":-1380,"y":240,"width":250,"height":60},
-		{"id":"37169de0a2070cc7","x":-2440,"y":-400,"width":250,"height":60,"color":"#ffa8f3","type":"text","text":"[[Suivi de création]]"}
+		{"id":"37169de0a2070cc7","x":-2440,"y":-400,"width":250,"height":60,"color":"#ffa8f3","type":"text","text":"[[Suivi de création -  Mathis Péron 22003481]]"}
 	],
 	"edges":[
 		{"id":"4a3eb2b8d90ba0a2","fromNode":"14747863885c436b","fromSide":"right","toNode":"5e28ee6360907571","toSide":"left"},

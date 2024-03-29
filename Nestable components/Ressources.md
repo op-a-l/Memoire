@@ -6,7 +6,7 @@
 
 #### Ressources
 
-- [[Suivi de création]] pour suivre l'avancement des compositions.
+- [[Suivi de création -  Mathis Péron 22003481]] pour suivre l'avancement des compositions.
 - [[_Références esthétiques, méthodologie]]. Un document de ressources dans lequel je fais des analyses, plus ou moins profondes, de musiques, d'albums ou de techniques musicales.
 - [[Objets musicaux]] est une liste de ce que je récupère dans les lieux internet que je visite. Ce document se verra probablement impacté par ma lecture de [[L'expérience esthétique des lieux|l'expérience esthétique des lieux]] qui me fera mieux comprendre ce qui fait un lieu d'un point de vue esthétique. 
 
