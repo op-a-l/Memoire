@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"53210b383e7191d8","type":"group","x":-520,"y":-580,"width":630,"height":380,"label":"Intentions techniques"},
+		{"id":"3cac55b6ea0a4069","type":"group","x":-1220,"y":-595,"width":290,"height":325,"label":"Intentions artistique"},
+		{"id":"66af0445a758f9ab","type":"group","x":-880,"y":-580,"width":290,"height":310,"label":"Intentions esthétiques"},
+		{"id":"099df4a3ec1b44d0","type":"text","text":"Amalgame musique glitch, IDM, fluxwork, color bass, brostep...","x":-860,"y":-560,"width":250,"height":60,"color":"4"},
+		{"id":"2b8773358258648f","type":"text","text":"Être porteur des esthétiques de Discord : Billegal, Snare, Popbot's Foundry","x":-1200,"y":-575,"width":250,"height":90,"color":"5"},
+		{"id":"9505212cdb47b0c1","type":"text","text":"Expérience immersive dans l'esthétique","x":-1200,"y":-465,"width":250,"height":60,"color":"5"},
+		{"id":"a155f234ac4a78b1","type":"text","text":"Réflexion sur la narrativité du son, sa capacité à évoquer l'impact des liens sociaux numériques","x":-1200,"y":-375,"width":250,"height":85,"color":"5"},
+		{"id":"d10e699e11734324","type":"text","text":"Expérimentations de structures musicales. Musique en arc","x":-860,"y":-350,"width":250,"height":60,"color":"4"},
+		{"id":"438af13b5ff41274","type":"text","text":"Paysage sonore numérique","x":-860,"y":-465,"width":250,"height":60,"color":"4"},
+		{"id":"d48e0a477836180b","type":"text","text":"Composition","x":-500,"y":-500,"width":250,"height":60,"color":"1"},
+		{"id":"622796dfabfc0a87","type":"text","text":"Sound design","x":-500,"y":-360,"width":250,"height":60,"color":"1"},
+		{"id":"b5fc479434582734","type":"text","text":"Enregistrement","x":-160,"y":-560,"width":250,"height":60,"color":"1"},
+		{"id":"2d95a01ccdbd1202","type":"text","text":"Improvisation","x":-160,"y":-440,"width":250,"height":60,"color":"1"},
+		{"id":"d84c21ff10607775","type":"text","text":"Facteurs aléatoires ","x":-160,"y":-290,"width":250,"height":60,"color":"1"}
+	],
+	"edges":[
+		{"id":"f673a66d15129bbd","fromNode":"099df4a3ec1b44d0","fromSide":"right","toNode":"d48e0a477836180b","toSide":"left"},
+		{"id":"40affb094c17ae41","fromNode":"2d95a01ccdbd1202","fromSide":"left","toNode":"d48e0a477836180b","toSide":"right"},
+		{"id":"80aecc87882b932c","fromNode":"622796dfabfc0a87","fromSide":"top","toNode":"d48e0a477836180b","toSide":"bottom"},
+		{"id":"3baa6532711fa03a","fromNode":"2d95a01ccdbd1202","fromSide":"top","toNode":"b5fc479434582734","toSide":"bottom"},
+		{"id":"d88d0ce2900af2a3","fromNode":"b5fc479434582734","fromSide":"left","toNode":"d48e0a477836180b","toSide":"right"},
+		{"id":"6877db093bb45cc0","fromNode":"d84c21ff10607775","fromSide":"left","toNode":"622796dfabfc0a87","toSide":"right"},
+		{"id":"b85334fe2f96888b","fromNode":"2b8773358258648f","fromSide":"right","toNode":"099df4a3ec1b44d0","toSide":"left"},
+		{"id":"532e7568c4b4d50f","fromNode":"a155f234ac4a78b1","fromSide":"right","toNode":"d10e699e11734324","toSide":"left"},
+		{"id":"58c23bd4b4c9036e","fromNode":"9505212cdb47b0c1","fromSide":"right","toNode":"438af13b5ff41274","toSide":"left"},
+		{"id":"f91d081583b25fd3","fromNode":"099df4a3ec1b44d0","fromSide":"right","toNode":"622796dfabfc0a87","toSide":"left"}
+	]
+}
