@@ -17,6 +17,7 @@ tags:
 | ==4.== | Mise en forme des musiques, comparaisons, <br>recherche de cohérence au travers des musiques. |       |       |       |       | X     | X     | X     |
 | ==5.== | Compte rendu sur les expérimentations                                                         |       |       |       |       |       |       | X     |
 
+## Bas de page
 \*L'étape n°1, celle du référencement dure tout au long de la création. Il s'agit de trouver des références techniques, esthétiques et philosophiques sur lesquelles baser mon travail. Le corpus de référence à partir duquel je travaille est en évolution permanente et  impacte donc ma création à mesure qu'elle se construit. 
 
 \** L'étape n°2, l'idéation, est également en permanent changement. Les idées qui construisent mon projet s'affinent à mesure que je découvre de nouvelles références. 

@@ -3,14 +3,7 @@ tags:
   - mémoire
 ---
 
-Timothé glitch visuel. 
-
-## Analyse d'un genre 
-
-Voir la musique électronique expérimentale et idm de manière générale 
-
-## La musique glitch/idm
-
+# 1. sujet // La musique glitch/idm
 ### *Nœud esthétique* dans des *lieux virtuels*
 
 Toute esthétique peut en rencontrer une autre au service de la musique glitch dans des "lieux" qui regroupent des gens de pays différents. 
@@ -41,13 +34,9 @@ En passant par Discord, quelques producteurs se font remarquer et sont demandés
 
 Tout se passe en ligne. Les candidatures au label, les sorties d'albums. Il n'existe aucune version physique des albums. 
 
-## 3ème partie 
 
-Représentation sensible d'une musique rec. 
-
-
-## Nouveau sujet - email
-
+# 2. sujet // Sound design  
+## e-mail
 Bonjour Monsieur, 
 
 J'ai beaucoup réfléchi à mon sujet de mémoire depuis l'entretien que nous avons eu et il me semble que j'ai trouvé une bonne piste de travail. 
@@ -66,3 +55,51 @@ Je vous remercie pour l'aide que vous m'apporterez dans ma réflexion.
 Bien à vous, 
 
 Mathis Péron
+
+## Entretien
+### Ce dont je veux parler
+La plus grande partie de mon travail se concentre sur le **sound design**. J'envisage cette discipline comme artistique plutôt que technique. Bien évidement, le sound design est un moyen menant à des musiques mais l'expression ne réside pas uniquement dans l'arrangement et la composition à partir des sons, elle existe dès la création du son lui même. 
+
+### Comment je veux l'aborder
+#### 1. Par un travail sur l'identité sonore
+##### 1. 1. En partant d'exemples d'artistes dont la palette sonore est unique
+- Tipper
+- Alexander Panos
+- Nömak
+- Vorso
+
+##### 1. 2. En expliquant leur identité artistique par le design sonore
+**À propos du processus créatif**
+COLLINS, Dave (ed.). _The act of musical composition: Studies in the creative process_. Routledge, 2016.
+
+**Sur l'identité en musique**
+AUSLANDER, Philip. _In Concert: Performing Musical Persona_. University of Michigan Press, 2021.
+
+**Sur l'empreinte sonore / identité sonore des lieux**
+Schafer, R. M. (2010). Le paysage sonore: le monde comme musique. France: Wildproject.
+
+##### 1. 3. En évoquant l'aspect communautaire de la musique permettant de forger son identité sonore
+Mais j'aimerai aussi parler des communautés qui s'organisent sur discord, de l'effervescence qui existe dans les serveurs de musique et d'art. 
+
+Discord peut être considéré comme un espace projet et un atelier collectif, selon la définition de Séverine Marguin. Un travail sur l'esthétique
+
+#### 2. Par une recherche esthétique autour de l'organicité comme une forme d'identité sonore
+Je pensais à travailler sur ce que je nomme l'organicité. J'aimerai parler du moment à partir duquel on oublie l'ordinateur qui se cache derrière la musique du point de vue du design sonore. 
+
+Taylor, B. (2020). The Life of Forms in Art: Modernism, Organism, Vitality. Royaume-Uni: Bloomsbury Publishing.
+
+##### 2. 1. En partant de la rigidité algorithmique
+The Oxford Handbook of Algorithmic Music. (2018). États-Unis: Oxford University Press.
+
+Réveillac, J. (2019). Les machines de la musique électronique: Les nouveaux instruments musicaux. Royaume-Uni: ISTE Editions Limited.
+
+##### 2. 2. En parlant d'imitation de la nature comme sortie à la rigidité algorithmique
+HOLMES, Thom. _Electronic and experimental music: technology, music, and culture_. Routledge, 2012.
+
+Inspired by nature - [[Dillon Bastan]]
+
+##### 2. 3. En parlant des failles algorithmiques
+HARKINS Paul, « La transmission perdue et retrouvée. Le sampler comme outil de composition et de décontextualisation de l'enregistrement », _Réseaux_, 2012/2 (n° 172), p. 92-118. DOI : 10.3917/res.172.0092. URL : https://www-cairn-info.distant.bu.univ-rennes2.fr/revue-reseaux-2012-2-page-92.htm
+
+QUINTYN Olivier, « L’ère du glitch : utopie et réification. Pour une théorie critique rétrospective », _Audimat_, 2015/2 (N° 4), p. 177-196. DOI : 10.3917/audi.004.0177. URL : https://www-cairn-info.distant.bu.univ-rennes2.fr/revue-audimat-2015-2-page-177.htm
+
