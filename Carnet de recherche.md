@@ -15,7 +15,7 @@ tags:
 			- [x] Snares(@2024-03-11)
 		- [ ] Composition
 			- [ ] _the center of it all 
-				- [ ] _nodes everywhere (@2024-04-08)
+				- [ ] _nodes everywhere (@2024-04-15)
 				- [ ] _folds in a folder
 				- [ ] _sans nom
 	- [ ] Recherche
@@ -59,3 +59,6 @@ Cette formulation est certainement vouée à changer puisque je vais la nourrir 
 
 [[2024-03-12]]: Formulation de ma [[Question de recherche|question de recherche]]
 
+### 08 - 04 - 24
+
+[[2024-04-08]]: J'ai bouclé mon [[Dossier d'expérimentations - Mathis Péron - 22003481]]. C'était difficile. D'autant plus que je ne suis pas satisfait de mon travail. 
