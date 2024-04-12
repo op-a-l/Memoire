@@ -6,14 +6,14 @@
 		{"id":"099df4a3ec1b44d0","type":"text","text":"Amalgame musique glitch, IDM, fluxwork, color bass, brostep...","x":-860,"y":-560,"width":250,"height":60,"color":"4"},
 		{"id":"2b8773358258648f","type":"text","text":"Être porteur des esthétiques de Discord : Billegal, Snare, Popbot's Foundry","x":-1200,"y":-575,"width":250,"height":90,"color":"5"},
 		{"id":"9505212cdb47b0c1","type":"text","text":"Expérience immersive dans l'esthétique","x":-1200,"y":-465,"width":250,"height":60,"color":"5"},
-		{"id":"a155f234ac4a78b1","type":"text","text":"Réflexion sur la narrativité du son, sa capacité à évoquer l'impact des liens sociaux numériques","x":-1200,"y":-375,"width":250,"height":85,"color":"5"},
-		{"id":"d10e699e11734324","type":"text","text":"Expérimentations de structures musicales. Musique en arc","x":-860,"y":-350,"width":250,"height":60,"color":"4"},
+		{"id":"a155f234ac4a78b1","type":"text","text":"Réflexion sur la narrativité du son, sa capacité à évoquer l'impact des liens sociaux numériques","x":-1200,"y":-380,"width":250,"height":90,"color":"5"},
 		{"id":"438af13b5ff41274","type":"text","text":"Paysage sonore numérique","x":-860,"y":-465,"width":250,"height":60,"color":"4"},
 		{"id":"d48e0a477836180b","type":"text","text":"Composition","x":-500,"y":-500,"width":250,"height":60,"color":"1"},
 		{"id":"622796dfabfc0a87","type":"text","text":"Sound design","x":-500,"y":-360,"width":250,"height":60,"color":"1"},
 		{"id":"b5fc479434582734","type":"text","text":"Enregistrement","x":-160,"y":-560,"width":250,"height":60,"color":"1"},
 		{"id":"2d95a01ccdbd1202","type":"text","text":"Improvisation","x":-160,"y":-440,"width":250,"height":60,"color":"1"},
-		{"id":"d84c21ff10607775","type":"text","text":"Facteurs aléatoires ","x":-160,"y":-290,"width":250,"height":60,"color":"1"}
+		{"id":"d84c21ff10607775","type":"text","text":"Facteurs aléatoires ","x":-160,"y":-290,"width":250,"height":60,"color":"1"},
+		{"id":"d10e699e11734324","type":"text","text":"Expérimentations de structures musicales. Musique en arc","x":-860,"y":-365,"width":250,"height":60,"color":"4"}
 	],
 	"edges":[
 		{"id":"f673a66d15129bbd","fromNode":"099df4a3ec1b44d0","fromSide":"right","toNode":"d48e0a477836180b","toSide":"left"},

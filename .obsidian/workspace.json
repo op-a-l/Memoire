@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "86fb1ea31ec9d317",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b7484f32f132060b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "e5b370e7138b7070",
         "type": "tabs",
         "children": [
@@ -29,8 +11,12 @@
             "id": "4b2142a6b46db862",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_Mémoire.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "_Mémoire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "_Mémoire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "_Mémoire.md"
               }
             }
           }
@@ -160,7 +146,7 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "b7484f32f132060b",
+  "active": "4b2142a6b46db862",
   "lastOpenFiles": [
     "Welcome.md"
   ]

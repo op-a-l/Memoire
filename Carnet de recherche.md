@@ -20,8 +20,8 @@ tags:
 				- [ ] _sans nom
 	- [ ] Recherche
 		- [ ] Lectures
-			- [ ] [[Musique numérique, pour quoi faire]]
-		- [ ] Définir un sujet valide
+			- [x] [[Musique numérique, pour quoi faire]]
+		- [x] Définir un sujet valide
 			- [x] Formulation du sujet
 		- [ ] Rupture
 			- [ ] Question de départ

@@ -68,7 +68,7 @@ Certains sont connus pour le coté liquide de leur musique. Tipper est une réf�
 
 Cependant, il n'y a pas de méthode fixe pour créer une musique liquide et la définition qu'on donne à ce terme est très floue. C'est justement ce à quoi s'attèlera mon travail de recherche. 
 
-Les sonorités sableuses souffrent du même problème de clarté que celles décrites précédemment. Notons simplement qu'elles sont bien souvent construites autour de bruit blanc et de saturation. 
+Les sonorités sableuses souffrent du même problème de clarté dans leur définition que celles décrites précédemment. Notons simplement qu'elles sont bien souvent construites autour de bruit blanc et de saturation. 
 
 #### *Inspired by nature* de Dillon Bastan
 Les outils Max for live de Dillon Bastan sont d'une grande utilité lorsqu'il s'agit d'imiter la nature. En effet, le développeur à crée un lot de *plugins*, nommé "inspired by nature", qui reprend des principes physiques pour générer des rythmes, hauteurs et sons. 

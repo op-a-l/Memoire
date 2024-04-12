@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"bfca599b4f857d25","type":"group","x":840,"y":-400,"width":780,"height":760,"label":"Logiciels"},
+		{"id":"981717828ae6571f","type":"group","x":-220,"y":-80,"width":860,"height":400,"label":"Interfaces"},
+		{"id":"055259d99ae76576","type":"group","x":880,"y":-315,"width":700,"height":275,"label":"Design sonore"},
+		{"id":"b16af520003cf36b","type":"group","x":-160,"y":-10,"width":510,"height":260,"label":"Octatrack MK2","background":"Pasted image 20240411122141.png"},
+		{"id":"d02010315f69cc0e","type":"group","x":880,"y":40,"width":382,"height":240,"label":"Images"},
+		{"id":"956e5312e01c86fc","type":"group","x":-160,"y":800,"width":430,"height":160,"label":"Opérateur"},
+		{"id":"6b4ffb923ea2cb64","type":"group","x":920,"y":-247,"width":310,"height":140,"label":"Temps réel"},
+		{"id":"7828b1255e7e073d","type":"group","x":1250,"y":-247,"width":310,"height":140,"label":"Temps différé"},
+		{"id":"b722e11d4ebbfb1b","type":"group","x":920,"y":100,"width":310,"height":120,"label":"Temps réel"},
+		{"id":"f73807e52ced1c9d","type":"text","text":"# Ordinateur","x":360,"y":-10,"width":250,"height":60},
+		{"id":"a07593e1cc641bb1","type":"text","text":"# Max","x":955,"y":-202,"width":250,"height":53},
+		{"id":"b0a86a5c4c5a326f","type":"text","text":"# Bitwig studio","x":1285,"y":-202,"width":250,"height":53},
+		{"id":"c264138237fa974a","type":"text","text":"# Touchdesigner","x":951,"y":130,"width":250,"height":50}
+	],
+	"edges":[
+		{"id":"75b514af39d34fc8","fromNode":"956e5312e01c86fc","fromSide":"top","toNode":"981717828ae6571f","toSide":"bottom","label":"Modification de paramètres"},
+		{"id":"89a61a89e0fd92c8","fromNode":"981717828ae6571f","fromSide":"bottom","toNode":"956e5312e01c86fc","toSide":"right","label":"Retour visuel"},
+		{"id":"e4e6d9564552fb4c","fromNode":"b16af520003cf36b","fromSide":"right","toNode":"f73807e52ced1c9d","toSide":"bottom","fromEnd":"arrow","label":"Signal midi\n"},
+		{"id":"658dfd78fa6ac478","fromNode":"b16af520003cf36b","fromSide":"top","toNode":"f73807e52ced1c9d","toSide":"top","fromEnd":"arrow","label":"Signal audio"},
+		{"id":"92681e411b994bd4","fromNode":"f73807e52ced1c9d","fromSide":"right","toNode":"a07593e1cc641bb1","toSide":"left"},
+		{"id":"f27910f6749321c7","fromNode":"a07593e1cc641bb1","fromSide":"bottom","toNode":"c264138237fa974a","toSide":"top","label":"Signal audio & MIDI"},
+		{"id":"82a8bc7e1c6c5734","fromNode":"c264138237fa974a","fromSide":"left","toNode":"f73807e52ced1c9d","toSide":"right","label":"Images animées\n"},
+		{"id":"9407f4d811f4325b","fromNode":"b0a86a5c4c5a326f","fromSide":"left","toNode":"a07593e1cc641bb1","toSide":"right"}
+	]
+}
